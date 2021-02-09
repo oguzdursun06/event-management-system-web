@@ -4,6 +4,14 @@ Event Management System React - 2020 Summer Internship Project
 This is a web application which is built for TUBITAK BILGEM's events. The user can become a member of the system, view the activities in a filtered way after becoming a member, participate in the events and ask questions at the events he/she attends. Admin can add, edit, delete events. (Within various rules) List the attendees of the event. It can also view charts related to events. 
 I built web application with ReactJS. Spring Boot is used for backend side, and PostgreSQL is used for database.
 
+### How to build a project
+
+1. Clone/ download this github repository.
+2. Extract it on your local machine.
+3. Open a folder in vscode or sth.
+4. Run `$ npm install`  to download all the dependencies.
+5. Run `$ npm start` to run the project.
+
 ### Application Examples
 
 
